@@ -25,5 +25,10 @@
     },
     "bin": ["pure"],
     "license": "MIT",
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-symfony3-deployer-test": "1.1"
+        }
+    }
 }
